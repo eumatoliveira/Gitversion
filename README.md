@@ -66,10 +66,10 @@ Um gestor de repositórios GitHub com interface gráfica, criado com CustomTkint
 
 Desenvolvido por @eumatoliveira (Vibing Code) em colaboração com o assistente AI Gemini.
 
-✨ Funcionalidades Principais
+# ✨ Funcionalidades Principais
 🔐 Conexão Segura: Conecta-se à API do GitHub usando um Token de Acesso Pessoal (PAT).
 
-📂 Gestão de Repositórios:
+# 📂 Gestão de Repositórios:
 
 Lista, filtra e pesquisa todos os seus repositórios.
 
@@ -77,7 +77,7 @@ Cria novos repositórios (públicos ou privados) com opção de adicionar um REA
 
 Exclui repositórios diretamente pela interface.
 
-💻 Operações Git Locais:
+# 💻 Operações Git Locais:
 
 Clona repositórios remotos para a sua máquina local.
 
@@ -85,17 +85,17 @@ Push de projetos locais (novos ou existentes) para o GitHub.
 
 Pull para atualizar o seu repositório local com as últimas mudanças.
 
-📋 Gestão de Tarefas (Issues):
+# 📋 Gestão de Tarefas (Issues):
 
 Lista todas as tarefas (issues) abertas de um repositório.
 
 Cria novas tarefas com título e descrição.
 
-📊 Análise:
+# 📊 Análise:
 
 Gera gráficos de atividade (criação de repositórios ao longo do tempo).
 
-📜 Log de Atividades:
+# 📜 Log de Atividades:
 
 Um log detalhado que regista todas as ações, sucessos e erros com timestamps.
 
@@ -145,10 +145,10 @@ Um gestor de repositórios GitHub com interface gráfica, criado com CustomTkint
 
 Desenvolvido por @eumatoliveira (Vibing Code) em colaboração com o assistente AI Gemini.
 
-✨ Funcionalidades Principais
+## ✨ Funcionalidades Principais
 🔐 Conexão Segura: Conecta-se à API do GitHub usando um Token de Acesso Pessoal (PAT).
 
-📂 Gestão de Repositórios:
+## 📂 Gestão de Repositórios:
 
 Lista, filtra e pesquisa todos os seus repositórios.
 
@@ -156,7 +156,7 @@ Cria novos repositórios (públicos ou privados) com opção de adicionar um REA
 
 Exclui repositórios diretamente pela interface.
 
-💻 Operações Git Locais:
+## 💻 Operações Git Locais:
 
 Clona repositórios remotos para a sua máquina local.
 
@@ -164,28 +164,28 @@ Push de projetos locais (novos ou existentes) para o GitHub.
 
 Pull para atualizar o seu repositório local com as últimas mudanças.
 
-📋 Gestão de Tarefas (Issues):
+## 📋 Gestão de Tarefas (Issues):
 
 Lista todas as tarefas (issues) abertas de um repositório.
 
 Cria novas tarefas com título e descrição.
 
-📊 Análise:
+## 📊 Análise:
 
 Gera gráficos de atividade (criação de repositórios ao longo do tempo).
 
-📜 Log de Atividades:
+## 📜 Log de Atividades:
 
 Um log detalhado que regista todas as ações, sucessos e erros com timestamps.
 
-🛠️ Pré-requisitos
+## 🛠️ Pré-requisitos
 Antes de começar, garanta que tem os seguintes softwares instalados:
 
 🐍 Python 3.9+
 
 🔷 Git (O app verifica se o Git está instalado no PATH do sistema)
 
-🚀 Instalação e Configuração
+## 🚀 Instalação e Configuração
 Siga estes passos para configurar e executar o projeto localmente.
 
 1. Clonar o Repositório
